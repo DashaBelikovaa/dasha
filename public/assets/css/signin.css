@@ -1,0 +1,56 @@
+html,
+body {
+  height: 100%;
+  font-family: 'Merriweather', serif;
+}
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@400;700&display=swap');
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Merriweather', serif;
+}
+.nav.col-12.col-lg-auto.me-lg-auto.mb-2.justify-content-center.mb-md-2{
+margin-left: -50px;
+}
+body {
+  font-family: 'Merriweather', serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Merriweather', serif;
+}
+body {
+  font-family: 'Merriweather', serif;
+  display: flex;
+  align-items: center;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  background-color: #616161;
+}
+.img-fluid{
+  margin-left: -300px;
+
+}
+.form-signin {
+  width: 100%;
+  max-width: 400px;
+  padding: 15px;
+  margin: auto;
+}
+
+.form-signin .checkbox {
+  font-weight: 400;
+}
+.logo {
+  display: flex;
+  align-items: center;
+}
+
+.logo img {
+  height: 80px;
+  margin-right: 0px;
+}
+.mb-4{
+  margin-left: -80px;
+}
+.mt-2{
+  color: black;
+}
